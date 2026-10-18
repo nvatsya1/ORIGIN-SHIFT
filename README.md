@@ -1,5 +1,4 @@
 # ORIGIN-SHIFT
-# ORIGIN SHIFT
 ### See how your thinking changes.
 
 **ORIGIN SHIFT is an AI-powered belief-tracking tool designed to make changes in human reasoning visible, traceable, and open to scrutiny.**
